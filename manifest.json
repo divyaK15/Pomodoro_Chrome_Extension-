@@ -2,6 +2,10 @@
   "name": "Pomodoro",
   "description": "Study technique timer",
   "version": "1.0",
-  "manifest_version": 3
+  "manifest_version": 3,
+
+  "background": {
+      "service_worker": "timer.js"
+  }
   
 }
