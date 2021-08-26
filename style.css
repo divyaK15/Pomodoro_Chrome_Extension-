@@ -1,4 +1,16 @@
 
 body{
-    background-color: blue;
+    background-color: black;
+}
+
+h1{
+    color: white; 
+    font-size: 30px; 
+    font-family: 'Lucida Handwriting' ; 
+}
+
+#timerclock{
+    color: white; 
+    font-size: 30px; 
+    font-family: 'Lucida Handwriting' ; 
 }

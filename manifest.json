@@ -6,6 +6,11 @@
 
   "background": {
       "service_worker": "timer.js"
+  }, 
+
+  "permissions": ["storage"], 
+  "action": {
+    "default_popup": "timerScreen.html"
   }
   
 }
